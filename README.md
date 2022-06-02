@@ -9,7 +9,7 @@ I'm a fullstack developer currently looking for knowledge
 
 🧠 I'm learning Javascript
 
-## 🛠 Habilidades
+## 🛠 Skills
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
