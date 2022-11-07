@@ -18,7 +18,7 @@
     <img align="center"  height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-plain-wordmark.svg">
     <img align="center"  height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original-wordmark.svg">
     <img align="center"  height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
-    <img align="center"  height="40" width="50" src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
+    <img align="center"  height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
 </div>
 
 #
