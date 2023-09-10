@@ -1,7 +1,7 @@
 
 ## Hi there 👋 I'm Cauã Miller 👨🏻‍💻
 
-- 19 years old, I'm Brazilian and I am living in São José dos Campos - São Paulo.
+- 20 years old, I'm Brazilian and I am living in São José dos Campos - São Paulo.
 - I have 2 years of experience in software development. 
 - Some stacks that I have knowledge are below.
 
