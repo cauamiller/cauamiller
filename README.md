@@ -22,6 +22,3 @@
 </div>
 
 #
-
-![Github Snake Animation](https://user-images.githubusercontent.com/50845287/198006983-1a7c22e4-633f-41c5-b5f7-201278b1700d.svg)
-
